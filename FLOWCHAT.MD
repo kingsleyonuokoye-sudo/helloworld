@@ -95,7 +95,7 @@
                  ┌───────────────────┐
                  │        END        │
                  └───────────────────┘
-(1)The circular table is and it diameter is 120cm.
+(1)The circular table  diameter is 120cm.
 (2)The radius of the table is (Radius=120/2=60cm
 (3)Area=3.14
 (4)A=3.14*60^2

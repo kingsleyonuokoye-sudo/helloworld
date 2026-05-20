@@ -1,4 +1,0 @@
-HELLOWORLD PR2
-First_Name="Kingsley"
-Last Name="Okoye"
-Print("First_Name + Last_Name)
